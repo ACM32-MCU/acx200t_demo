@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/honor.png</file>
+        <file>image/next.png</file>
+        <file>image/last.png</file>
+        <file>image/exit.png</file>
+        <file>image/stop.png</file>
+        <file>image/start.png</file>
+        <file>image/ico-solution.png</file>
+        <file>image/ico-home.png</file>
+        <file>image/ico-demo.png</file>
+        <file>image/ico-chip.png</file>
+        <file>image/corp-grow-7.png</file>
+        <file>image/corp-grow-6.png</file>
+        <file>image/corp-grow-5.png</file>
+        <file>image/corp-grow-4.png</file>
+        <file>image/corp-grow-3.png</file>
+        <file>image/corp-grow-2.png</file>
+        <file>image/corp-grow-1.png</file>
+        <file>image/corp-1.png</file>
+        <file>image/acx200t-chip-1.png</file>
+        <file>image/acx200t-chip-2.png</file>
+        <file>image/acx200t-chip-3.png</file>
+        <file>image/acx200t-solution-2.png</file>
+        <file>image/acx200t-solution-3.png</file>
+        <file>image/acx200t-solution-1.png</file>
+        <file>image/acx200t-solution-5.png</file>
+        <file>image/acx200t-solution-4.png</file>
+    </qresource>
+</RCC>
